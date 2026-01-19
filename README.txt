@@ -1,6 +1,7 @@
 ==============================================================
  PROJET DE SEGMENTATION PANOPTIQUE - MASTER SI  2025/2026
-Auteur : Ahmed Walid BOUANZOUL 
+# Auteur : Ahmed Walid BOUANZOUL  - Sorbonne Université
+
 ==============================================================
 
 Description :

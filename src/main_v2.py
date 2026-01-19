@@ -1,7 +1,7 @@
 # ===============================================================
 # PANOPTIC SEGMENTATION - VERSION 2 (Améliorée & Stable)
 # DeepLabV3 ResNet101 (COCO) + Mask R-CNN (COCO)
-# Auteur : Ahmed Walid – Master SI - Sorbonne Université
+# Auteur : Ahmed Walid BOUANZOUL – Master SI - Sorbonne Université
 # ===============================================================
 
 import os

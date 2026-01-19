@@ -1,9 +1,9 @@
 ==============================================================
-🧠 PROJET DE SEGMENTATION PANOPTIQUE - MASTER SI T 2025
-Auteur : Ahmed Walid BOUANZOUL 21318873
+ PROJET DE SEGMENTATION PANOPTIQUE - MASTER SI  2025/2026
+Auteur : Ahmed Walid BOUANZOUL 
 ==============================================================
 
-📘 Description :
+Description :
 ----------------
 Ce projet met en œuvre un pipeline complet de SEGMENTATION PANOPTIQUE 
 basé sur l’approche de Kirillov et al. (CVPR 2019).
@@ -26,7 +26,7 @@ compare_pq.py   → Script de comparaison PQ (v1 vs v2)
 README.txt      → Ce fichier d’explication
 
 ==============================================================
-⚙️ Dépendances :
+ Dépendances :
 ----------------
 Python >= 3.10
 Modules nécessaires :

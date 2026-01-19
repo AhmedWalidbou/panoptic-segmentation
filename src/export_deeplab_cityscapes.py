@@ -1,3 +1,5 @@
+# Auteur : Ahmed Walid – Master SI - Sorbonne Université
+
 import torch
 import torchvision
 

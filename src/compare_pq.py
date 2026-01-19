@@ -1,6 +1,6 @@
 # ===============================================================
 # COMPARAISON PANOPTIC SEGMENTATION V1 vs V2 (Version rapport)
-# Auteur : Walid - Master SI TP 2025
+# Auteur : Ahmed Walid – Master SI - Sorbonne Université
 # ===============================================================
 
 import numpy as np

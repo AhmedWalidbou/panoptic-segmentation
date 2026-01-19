@@ -1,7 +1,7 @@
 # ==============================================================
 # PANOPTIC SEGMENTATION - Version finale, multi-images et stable
 # Inspirée de Kirillov et al. (CVPR 2019)
-# Auteur : Ahmed Walid – Master SI
+# Auteur : Ahmed Walid – Master SI - Sorbonne Université
 # ==============================================================
 
 import cv2
